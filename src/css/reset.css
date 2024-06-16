@@ -33,3 +33,8 @@ img {
   max-width: 100%;
   height: auto;
 }
+
+body {
+  background-color: #fff;
+  font-family: 'Montserrat', sans-serif;
+}
